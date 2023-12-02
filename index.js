@@ -7,21 +7,21 @@
 // let age = 5;
 // console.log(age);
 // age 10:
- // console.log(age);
+// console.log(age);
 
- // const age 5;
- // console.log(age);
- // age 10:
- // console.log(age);
+// const age 5;
+// console.log(age);
+// age 10:
+// console.log(age);
 
-    let username;
-    console.log(username);
+//let username;
+//console.log(username);
 
- // Примітивні типи
+// Примітивні типи
 
 // Number - цілі числа 1 числа з плаваючою комою (крапкою)
 // String - рядок який починається одинарними ' АБО ""
-const string = "string";
+//const string = "string";
 // Boolean логічний тип даних, який має всього два значення true & falce
 // null значення яке означає ніщо.
 // undefined значення не визначено
